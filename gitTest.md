@@ -1,3 +1,3 @@
 # git 저장소 공부하기
 
-# git version4 삭제
+# git branch 생성 : version2
